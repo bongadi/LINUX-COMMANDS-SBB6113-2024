@@ -136,6 +136,7 @@ mv countries.txt data/
 
 10. ## Introduction to Bash Scripting
 A bash script is a text file containing a series of commands that the shell executes. It helps automate tasks.
+For example: It allows you to perform a series of actions, such as navigating to a specific directory, creating a folder, and launching a process using the command line
 
 Command: `bash` executes the script.
 Example:
